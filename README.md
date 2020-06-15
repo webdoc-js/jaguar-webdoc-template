@@ -1,4 +1,4 @@
-Jaguar.js template for JSDoc 3
+Jaguar.js template for webdoc
 ---
 - [Jaguar.js](https://davidshimjs.github.io/jaguarjs/)
 - [Jaguar.js Documentations](https://davidshimjs.github.io/jaguarjs/doc/)
